@@ -1,0 +1,1 @@
+{"name":"Local: kmp","url":"c:\\Users\\HP\\OneDrive\\Desktop\\CP in 2024\\May 24\\String Hashing\\kmp.cpp","tests":[{"id":1716696189636,"input":"1\n3\n16\nabc\nabcdefghabcabcab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\CP in 2024\\May 24\\String Hashing\\kmp.cpp","group":"local","local":true}
